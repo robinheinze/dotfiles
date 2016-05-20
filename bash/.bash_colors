@@ -1,0 +1,7 @@
+function ansi_color () {
+  echo "\[\033[00;${1}m\]"
+}
+function ansi_bold_color () {
+  echo "\[\033[01;${1}m\]"
+}
+color_rst="\[\033[00m\]"

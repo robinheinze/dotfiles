@@ -1,0 +1,12 @@
+[pull]
+	rebase = true
+[user]
+	name = Robin Heinze
+	email = rheinze@crowdcompass.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
