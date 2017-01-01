@@ -26,6 +26,7 @@ map <C-l> <C-W>l
 
 " NERDTree Toggle
 map <F2> :NERDTreeToggle<CR>
+let NERDTreeShowHidden=1
 
 let mapleader = ","
 
