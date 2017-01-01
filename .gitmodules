@@ -4,9 +4,6 @@
 [submodule "vim-fugitive"]
   path = vim/.vim/bundle/vim-fugitive
   url = https://github.com/tpope/vim-fugitive.git
-[submodule "nerdtree"]
-	path = vim/.vim/bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "vim-elixir"]
 	path = vim/.vim/bundle/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
@@ -22,3 +19,6 @@
 [submodule "papercolor-theme"]
   path = vim/.vim/bundle/papercolor-theme
   url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "vim/.vim/bundle/nerdtree"]
+	path = vim/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git

@@ -21,7 +21,7 @@ alias be="bundle exec"
 
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
-alias ls='ls -GFh'
+alias ls='ls -aGFh'
 
 alias omfg_really_rabbitmq='launchctl unload $HOME/Library/LaunchAgents/homebrew.mxcl.rabbitmq.plist; launchctl load $HOME/Library/LaunchAgents/homebrew.mxcl.rabbitmq.plist'
 alias pump_upstream_changes='curl -XPUT -d '\''only=invitation'\'' http://eventcenter.local.crowdcompass.com:3001/application_servers/get_upstream_changeset'
