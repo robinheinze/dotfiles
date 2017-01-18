@@ -47,6 +47,7 @@ vnoremap <C-c> "*y
 set pastetoggle=<F3>
 
 " Visually show whitespace
+" set list listchars=tab:»·,trail:·,eol:$,
 set list listchars=tab:»·,trail:·
 
 " Make vim background transparent so terminal settings come through
